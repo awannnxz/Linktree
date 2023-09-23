@@ -1,0 +1,258 @@
+.links {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 1px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 12px;
+	font-size: 15px;
+}
+
+/* Instagram */
+
+.links-instagram {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-instagram:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #833ab4;
+	background: -webkit-linear-gradient(to right, #fcb045,#fd1d1d, #833ab4);
+	background: linear-gradient(to right, #fcb045, #fd1d1d,  #833ab4);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Instagram */
+
+/* Youtobe */
+
+.links-youtube {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-youtube:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #ed213a;
+	background: -webkit-linear-gradient(to right, #DF0000, #ed213a);
+	background: linear-gradient(to right, #DF0000, #ed213a);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Youtube */
+
+/* Tiktok */
+
+.links-tiktok {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-tiktok:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #00D8FF;
+	background: -webkit-linear-gradient(to right, #00D8FF, #D100FF, #FF007C);
+	background: linear-gradient(to right, #00D8FF, #D100FF, #FF007C);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Tiktok */
+
+/* Twitter */
+
+.links-x {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-x:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: aqua;
+	background: -webkit-linear-gradient(to right, aqua, aqua);
+	background: linear-gradient(to right, aqua, aqua);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Twitter */
+
+/* Spotify */
+
+.links-spotify {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-spotify:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #09C025;
+	background: -webkit-linear-gradient(to right, #09C025, #09C025);
+	background: linear-gradient(to right, #09C025, #09C025);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Spotify */
+
+/* Company Profile */
+
+.links-github {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-github:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #00B1FE;
+	background: -webkit-linear-gradient(to right, #00B1FE, #C000FE);
+	background: linear-gradient(to right, #00B1FE, #C000FE);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Company Profile */
+
+/* Trakteer */
+
+.links-trakteer {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	border: solid white;
+	border-width: 0.5px;
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+}
+
+.links-trakteer:hover {
+	text-align: center;
+	margin-top: 20px;
+	padding: 20px;
+	background: #DE0000;
+	background: -webkit-linear-gradient(to right, #DE0000, #DE0000);
+	background: linear-gradient(to right, #DE0000, #DE0000);
+
+	width: 290px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	font-size: 15px;
+	color: black;
+}
+
+/* Trakteer */
